@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kyrylo Pyinskyi
 - 👀 I’m interested in working as computer science engineer 
-- 🌱 I’m currently learning .Net and Java
-- 💞️ I’m looking to collaborate on development
+- 🌱 I’m currently studying at univercity
+- 💞️ I’m looking to collaborate on development project
 - 📫 How to reach me? 
 - email k.pylinskyi@gmail.com
